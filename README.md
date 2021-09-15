@@ -1,20 +1,17 @@
 ### Hi there I'm Chris 👋
 
-<!--
-**cr00ster/cr00ster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About me
-🔭 I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend. 
-   I’m currently doing "All The Things" from static code analysis, web-app security, basic red teaming to writing policy.
-   I have an extensive background with the following:
+- I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend. 
+  I’m currently doing "All The Things" from static code analysis, web-app security, basic red teaming to writing policy.
+  I have an extensive background with the following:
     -AWS, GCP and Azure security architecture
     -All EDR/EPP's on the market (no really, I've used them all)
     -SIEM: Splunk, Devo, Azure Sentinel, Backstory, and Graylog
     -Firewalls: Palo Alto Networks, Fortinet, Cisco, Sophos and Checkpoint
     -Vulnerability Management: Tenable and Rapid7
-- 🌱 I’m currently learning Yara L
-- 👯 I’m looking to collaborate on behavioral indicators of compromise and threat intelligence
-- 💬 Ask me about mentoring and professional development
+-  I’m currently learning Yara L
+-  I’m looking to collaborate on behavioral indicators of compromise and threat intelligence
+-  Ask me about mentoring and professional development
 
 ### Connect with me:
 -->
