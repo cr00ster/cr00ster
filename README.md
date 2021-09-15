@@ -6,7 +6,7 @@
 - I’m currently learning Yara L
 - I’m looking to collaborate on behavioral indicators of compromise and threat intelligence
 - Ask me about mentoring and professional development
-<br />
+
 - I have an extensive background with the following:
 - Cloud: AWS, GCP and Azure security architecture
 - EDR/EPP: All on the market (no really, I've used them all)
