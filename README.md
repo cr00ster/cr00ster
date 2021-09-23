@@ -1,6 +1,6 @@
 ## Hi there I'm Chris 👋
 
-!(TEsmall.png)
+![threatmebers](TEsmall.png)
 
 ### About me
 - I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend. 
