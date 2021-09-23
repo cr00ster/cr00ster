@@ -1,10 +1,8 @@
-## Hi there I'm Chris 👋
-
 ![threatmebers](TEsmall.png)
 
 ### About me
 - I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend. 
-- I’m currently doing "All The Things"
+- I’m currently doing all the things
 - I’m currently learning Yara L
 - I’m looking to collaborate on behavioral indicators of compromise and threat intelligence
 - Ask me about mentoring and professional development
