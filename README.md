@@ -1,10 +1,10 @@
 ![threatmebers](TEsmall.png)
 
 ### About me
-- I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend. 
+- I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend 
 - I’m currently doing all the things
 - I’m currently learning Yara L
-- I’m looking to collaborate on behavioral indicators of compromise and threat intelligence
+- I’m looking to collaborate on Secure SDLC, behavioral indicators of compromise and threat intelligence
 - Ask me about mentoring and professional development
 
 ### Connect with me:
