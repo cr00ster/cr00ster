@@ -1,7 +1,7 @@
 ![threatmebers](TEsmall.png)
 
 ### About me
-- This space is dedicated to help provide open source and free material to help identify security issues before they become dumpster fires
+- This space is dedicated to help provide open source and free material to identify security issues before they become dumpster fires
 - I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend 
 - I’m currently doing all the things
 - I’m currently learning Yara L
