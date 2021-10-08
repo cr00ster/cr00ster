@@ -22,4 +22,4 @@
 - Snyk Ambassador https://youtu.be/kvm6IDKp2UY
  
 ### Up and Coming Talks
-- BSidesDFW: "Target Acquired"
+- BSidesDFW: 6 Nov 2021 "Target Acquired"
