@@ -18,5 +18,8 @@
 
 
 ### Recent Talks
-
+- CISOThursday https://youtu.be/W8WSwE8pm5w
+- Snyk Ambassador https://youtu.be/kvm6IDKp2UY
  
+### Up and Coming Talks
+- BSidesDFW: "Target Acquired"
