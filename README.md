@@ -16,4 +16,7 @@
 [twitter]: https://twitter.com/cr00ster
 [linkedin]: https://www.linkedin.com/in/christopher-russell-5a9b20a7/
 
+
+### Recent Talks
+
  
