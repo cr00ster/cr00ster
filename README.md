@@ -18,7 +18,7 @@
 
 
 ### 
-[<img align="rigth" alt="cr00ster | badgr" width="150px" src="https://api.badgr.io/public/assertions/pcjfHHTcQoW9hh0tcOoSHg/image" />][badgr]
+[<img align="right" alt="cr00ster | badgr" width="150px" src="https://api.badgr.io/public/assertions/pcjfHHTcQoW9hh0tcOoSHg/image" />][badgr]
 
 ### Recent Talks
 - CISOThursday https://youtu.be/W8WSwE8pm5w                               
