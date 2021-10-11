@@ -12,13 +12,10 @@
 -->
 [<img align="left" alt="cr00ster | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cr00ster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="cr00ster | badgr" width="150px" src="https://api.badgr.io/public/assertions/pcjfHHTcQoW9hh0tcOoSHg/image" />][badgr]
 
 [twitter]: https://twitter.com/cr00ster
 [linkedin]: https://www.linkedin.com/in/christopher-russell-5a9b20a7/
-
-
-### 
-[<img align="right" alt="cr00ster | badgr" width="150px" src="https://api.badgr.io/public/assertions/pcjfHHTcQoW9hh0tcOoSHg/image" />][badgr]
 [badgr]: https://badgr.com/public/assertions/pcjfHHTcQoW9hh0tcOoSHg  
 
 ### Recent Talks
