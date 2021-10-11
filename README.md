@@ -18,7 +18,7 @@
 
 
 ### 
-[<img align="rigth" alt="cr00ster | LinkedIn" width="150px" src="https://api.badgr.io/public/assertions/pcjfHHTcQoW9hh0tcOoSHg/image" />][badgr]
+[<img align="rigth" alt="cr00ster | badgr" width="150px" src="https://api.badgr.io/public/assertions/pcjfHHTcQoW9hh0tcOoSHg/image" />][badgr]
 [badgr]: https://badgr.com/public/assertions/pcjfHHTcQoW9hh0tcOoSHg
 
 ### Recent Talks
