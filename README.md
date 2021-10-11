@@ -17,9 +17,11 @@
 [linkedin]: https://www.linkedin.com/in/christopher-russell-5a9b20a7/
 
 
-### Recent Talks
+### 
 [<img align="rigth" alt="cr00ster | LinkedIn" width="150px" src="https://api.badgr.io/public/assertions/pcjfHHTcQoW9hh0tcOoSHg/image" />][badgr]
 [badgr]: https://badgr.com/public/assertions/pcjfHHTcQoW9hh0tcOoSHg
+
+### Recent Talks
 - CISOThursday https://youtu.be/W8WSwE8pm5w                               
 - Snyk Ambassador https://youtu.be/kvm6IDKp2UY
  
