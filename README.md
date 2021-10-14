@@ -19,6 +19,7 @@
 [badgr]: https://badgr.com/public/assertions/pcjfHHTcQoW9hh0tcOoSHg  
 
 ### Recent Talks
+- DEF CON 29 Threat Report Roulette  https://www.youtube.com/watch?v=8viQbHQjJQM
 - CISOThursday https://youtu.be/W8WSwE8pm5w                               
 - Snyk Ambassador https://youtu.be/kvm6IDKp2UY
  
