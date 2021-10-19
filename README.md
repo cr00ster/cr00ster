@@ -22,6 +22,8 @@
 - DEF CON 29 Threat Report Roulette  https://www.youtube.com/watch?v=8viQbHQjJQM
 - CISOThursday https://youtu.be/W8WSwE8pm5w                               
 - Snyk Ambassador https://youtu.be/kvm6IDKp2UY
- 
+- Aphinia https://youtu.be/5wo7uE60J6s  
+
 ### Up and Coming Talks
 - BSidesDFW: 6 Nov 2021 "Target Acquired"
+- Info-Sec.live https://lnkd.in/envs_yeh
