@@ -27,3 +27,4 @@
 ### Up and Coming Talks
 - BSidesDFW: 6 Nov 2021 "Target Acquired"
 - Info-Sec.live https://lnkd.in/envs_yeh
+- TestJS Summit Nov 18-19 https://testjssummit.com/
