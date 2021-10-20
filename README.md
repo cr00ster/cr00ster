@@ -27,5 +27,5 @@
 ### Up and Coming Talks
 - BSidesDFW: 6 Nov 2021 "Target Acquired"
 - Info-Sec.live: 20 Oct 2021 https://lnkd.in/e7qTHPZZ
-- Devoxx: 2 Nov 2921 Hosting 
+- Devoxx: 2 Nov 2021 Hosting 
 - TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
