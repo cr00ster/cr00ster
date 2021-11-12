@@ -23,9 +23,9 @@
 - CISOThursday https://youtu.be/W8WSwE8pm5w                               
 - Snyk Ambassador https://youtu.be/kvm6IDKp2UY
 - Aphinia https://youtu.be/5wo7uE60J6s
+- Info-Sec.live: 20 Oct 2021 https://www.youtube.com/watch?v=WKpFlNWTQ4s
+- Devoxx: 2 Nov 2021 Hosting
 - BSidesDFW: 6 Nov 2021 "Target Acquired" https://www.youtube.com/watch?v=HgCf5SfkJs8
 
-### Up and Coming Talks
-- Info-Sec.live: 20 Oct 2021 https://lnkd.in/e7qTHPZZ
-- Devoxx: 2 Nov 2021 Hosting 
+### Up and Coming Talks 
 - TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
