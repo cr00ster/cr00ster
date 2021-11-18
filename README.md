@@ -24,7 +24,7 @@
 - Snyk Ambassador https://youtu.be/kvm6IDKp2UY
 - Aphinia https://youtu.be/5wo7uE60J6s
 - Info-Sec.live: 20 Oct 2021 https://www.youtube.com/watch?v=WKpFlNWTQ4s
-- Devoxx: 2 Nov 2021 Hosting
+- Devoxx: 2 Nov 2021 Hosting https://www.devoxx.co.uk/
 - BSidesDFW: 6 Nov 2021 "Target Acquired" https://www.youtube.com/watch?v=HgCf5SfkJs8
 
 ### Up and Coming Talks 
