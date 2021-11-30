@@ -26,7 +26,8 @@
 - Info-Sec.live: 20 Oct 2021 https://www.youtube.com/watch?v=WKpFlNWTQ4s
 - Devoxx: 2 Nov 2021 Hosting https://www.devoxx.co.uk/
 - BSidesDFW: 6 Nov 2021 "Target Acquired" https://www.youtube.com/watch?v=HgCf5SfkJs8
+- TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
 
 ### Up and Coming Talks 
-- TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
+- CISO Diaries https://the-ciso-diaries.captivate.fm/
 - EC Council 27 Jan 2022 9AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?" Register Now: https://lnkd.in/gAjnP-yM                       
