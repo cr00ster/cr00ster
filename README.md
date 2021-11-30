@@ -29,4 +29,4 @@
 
 ### Up and Coming Talks 
 - TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
-- EC Council 20 Jan 2022 8AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?"
+- EC Council 27 Jan 2022 9AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?" Register Now: https://lnkd.in/gAjnP-yM                       
