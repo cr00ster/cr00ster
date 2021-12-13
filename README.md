@@ -30,5 +30,6 @@
 
 ### Up and Coming Talks 
 - CISO Diaries https://the-ciso-diaries.captivate.fm/
+- "Don’t Panic, We’ll Get Through Log4Shell Togethe" 14 Dec 2021 @ 10:00am https://www.linkedin.com/video/event/urn:li:ugcPost:6876221857050218496/
 - FinTech Magazine @ Wed Jan 5, 2022 10am - 10:25am
 - EC Council 27 Jan 2022 9AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?" Register Now: https://lnkd.in/gAjnP-yM                       
