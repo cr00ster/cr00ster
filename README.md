@@ -27,9 +27,9 @@
 - Devoxx: 2 Nov 2021 Hosting https://www.devoxx.co.uk/
 - BSidesDFW: 6 Nov 2021 "Target Acquired" https://www.youtube.com/watch?v=HgCf5SfkJs8
 - TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
+- "Don’t Panic, We’ll Get Through Log4Shell Togethe" 14 Dec 2021 @ 10:00am https://www.youtube.com/watch?v=Q9d0qaMIUQs
 
 ### Up and Coming Talks 
 - CISO Diaries https://the-ciso-diaries.captivate.fm/
-- "Don’t Panic, We’ll Get Through Log4Shell Togethe" 14 Dec 2021 @ 10:00am https://www.linkedin.com/video/event/urn:li:ugcPost:6876221857050218496/
 - FinTech Magazine @ Wed Jan 5, 2022 10am - 10:25am
 - EC Council 27 Jan 2022 9AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?" Register Now: https://lnkd.in/gAjnP-yM                       
