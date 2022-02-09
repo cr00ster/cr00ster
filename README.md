@@ -28,7 +28,7 @@
 - BSidesDFW: 6 Nov 2021 "Target Acquired" https://www.youtube.com/watch?v=HgCf5SfkJs8
 - TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
 - "Don’t Panic, We’ll Get Through Log4Shell Togethe" 14 Dec 2021 @ 10:00am https://www.youtube.com/watch?v=Q9d0qaMIUQs
-- EC Council 27 Jan 2022 9AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?"
+- EC Council 27 Jan 2022 9AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?" https://www.youtube.com/watch?v=CztPwpfFg_M
 - A Day in the Life of a FinTech CISO- Snyk 31 Jan 2022 - https://www.youtube.com/watch?v=-cQqyqqB7Dk
 
 ### Up and Coming Talks 
