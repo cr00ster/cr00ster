@@ -32,5 +32,6 @@
 - A Day in the Life of a FinTech CISO- Snyk 31 Jan 2022 - https://www.youtube.com/watch?v=-cQqyqqB7Dk
 
 ### Up and Coming Talks 
-- CISO Diaries 
-- FinTech Magazine                    
+- CISO Diaries 17 February 2022
+- FinTech Magazine
+- Metomic Webinar 20 April 2022                    
