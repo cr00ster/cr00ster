@@ -4,7 +4,7 @@
 - This space is dedicated to help provide open source and free material to identify security issues before they become dumpster fires
 - I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend 
 - I’m currently doing all the things
-- I’m currently learning Yara L
+- I’m currently attending the "Applied Blockchain" course from MIT
 - I’m looking to collaborate on Secure SDLC, behavioral indicators of compromise and threat intelligence
 - Ask me about mentoring and professional development
 
@@ -34,4 +34,5 @@
 
 ### Up and Coming Talks 
 - FinTech Magazine
-- Metomic Webinar 20 April 2022                    
+- Metomic Webinar 20 April 2022
+- Texas Cyber Summit 22-24 September 2022 https://texascyber.com/              
