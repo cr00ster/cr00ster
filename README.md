@@ -29,10 +29,13 @@
 - TestJS Summit: 18-19 Nov 2021 https://testjssummit.com/
 - "Don’t Panic, We’ll Get Through Log4Shell Togethe" 14 Dec 2021 @ 10:00am https://www.youtube.com/watch?v=Q9d0qaMIUQs
 - EC Council 27 Jan 2022 9AM CST "What Makes SOCaaS Essential in the Current Cyber Threat Landscape?" https://www.youtube.com/watch?v=CztPwpfFg_M
-- A Day in the Life of a FinTech CISO- Snyk 31 Jan 2022 - https://www.youtube.com/watch?v=-cQqyqqB7Dk
+- A Day in the Life of a FinTech CISO - Snyk 31 Jan 2022 - https://www.youtube.com/watch?v=-cQqyqqB7Dk
 - CISO Diaries 17 February 2022 https://the-ciso-diaries.captivate.fm/episode/chris-russell
+- Layer 8 Podcast 6 June 2022  https://anchor.fm/layer-8-podcast/episodes/Episode-83-Chris-Russell---The-Militarys-Human-Lie-Detector-e1hsusv
+- Enabling the 'Human Firewall' while scaling Metomic Webinar https://metomic.io/resources/webinar-human-firewall
 
-### Up and Coming Talks 
+### Up and Coming Talks
+- Dallas CIO/CISO Summit August 2022  
 - FinTech Magazine
-- Metomic Webinar 20 April 2022
+- Boss Magazine
 - Texas Cyber Summit 22-24 September 2022 https://texascyber.com/              
