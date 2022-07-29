@@ -33,8 +33,8 @@
 - CISO Diaries 17 February 2022 https://the-ciso-diaries.captivate.fm/episode/chris-russell
 - Layer 8 Podcast 6 June 2022  https://anchor.fm/layer-8-podcast/episodes/Episode-83-Chris-Russell---The-Militarys-Human-Lie-Detector-e1hsusv
 - Enabling the 'Human Firewall' while scaling Metomic Webinar https://metomic.io/resources/webinar-human-firewall
-- Zero Trust Round Table by Cloudflare and Ortus Club https://www.linkedin.com/posts/ortus-club_cloudflare-zerotrust-it-activity-6947879903400706048-      Djse?utm_source=linkedin_share&utm_medium=member_desktop_web
-- Data privacy can improve data intelligence with Protegrity and Ortus Club https://www.linkedin.com/posts/ortus-club_protegrity-data-privacy-activity-   6957944629765844992-kW66?utm_source=linkedin_share&utm_medium=member_desktop_web
+- Moderator for Zero Trust Round Table by Cloudflare and Ortus Club https://www.linkedin.com/posts/ortus-club_cloudflare-zerotrust-it-activity-6947879903400706048-Djse?utm_source=linkedin_share&utm_medium=member_desktop_web
+- Moderator Data privacy can improve data intelligence with Protegrity and Ortus Club https://www.linkedin.com/posts/ortus-club_protegrity-data-privacy-activity-6957944629765844992-kW66?utm_source=linkedin_share&utm_medium=member_desktop_web
 ### Up and Coming Talks
 - Dallas CIO/CISO Summit August 2022  
 - FinTech Magazine
