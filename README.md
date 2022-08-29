@@ -36,7 +36,9 @@
 - Moderator for Zero Trust Round Table by Cloudflare and Ortus Club https://www.linkedin.com/posts/ortus-club_cloudflare-zerotrust-it-activity-6947879903400706048-Djse?utm_source=linkedin_share&utm_medium=member_desktop_web
 - Moderator Data privacy can improve data intelligence with Protegrity and Ortus Club https://www.linkedin.com/posts/ortus-club_protegrity-data-privacy-activity-6957944629765844992-kW66?utm_source=linkedin_share&utm_medium=member_desktop_web
 ### Up and Coming Talks
-- Dallas CIO/CISO Summit August 2022  
-- FinTech Magazine
-- Boss Magazine
-- Texas Cyber Summit 22-24 September 2022 https://texascyber.com/              
+- Dallas CIO/CISO Summit "AppSec for Everyone" 9:30AM, August 2022
+- First Watch Podcast Sept 2022  
+- FinTech Magazine (Cyber Security Edition, time pending)
+- Boss Magazine (No current date set)
+- Texas Cyber Summit 22-24 September 2022 https://texascyber.com/ 
+- Housecon Oct 21-22, 2022 https://web.cvent.com/event/0ac8a54d-fbe9-4a16-8510-49dcf538389f/summary             
