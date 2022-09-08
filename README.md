@@ -40,6 +40,6 @@
 - First Watch Podcast Sept 2022  
 - FinTech Magazine (Cyber Security Edition, time pending)
 - Boss Magazine (No current date set)
-- Texas Cyber Summit 22-24 September 2022 https://texascyber.com/
+- Texas Cyber Summit "Target Acquired V2" 22-24 September 2022 https://texascyber.com/
 - NCS Madison CIO/CISO Strategy Meeting Facilitator for "Demonstrate the Business Value of Data" Oct 4 https://ncsmadison.com/cio-ciso-dallas/
 - Housecon Oct 21-22, 2022 https://web.cvent.com/event/0ac8a54d-fbe9-4a16-8510-49dcf538389f/summary             
