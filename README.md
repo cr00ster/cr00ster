@@ -1,11 +1,9 @@
 ![threatmebers](TEsmall.png)
 
 ### About me
-- This space is dedicated to help provide open source and free material to identify security issues before they become dumpster fires
-- I'm an Information Security Executive (don't hold it against me), a garage gym work out junky and an energy drink fiend 
-- I’m currently doing all the things
-- I’m currently attending the "Applied Blockchain" course from MIT
-- I’m looking to collaborate on Secure SDLC, behavioral indicators of compromise and threat intelligence
+- I'm an Information Security Executive (don't hold it against me), a work out junky and an energy drink fiend 
+- I’m currently getting my PhD in Cybersecurity with a focus on Blockchain Security at DSU
+- I’m looking to collaborate on Secure SDLC, AppSec, API Sec, BlockSec, insider threat and threat intelligence topics.
 - Ask me about mentoring and professional development
 
 ### Connect with me:
