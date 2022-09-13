@@ -33,7 +33,7 @@
 - Enabling the 'Human Firewall' while scaling Metomic Webinar https://metomic.io/resources/webinar-human-firewall
 - Moderator for Zero Trust Round Table by Cloudflare and Ortus Club https://www.linkedin.com/posts/ortus-club_cloudflare-zerotrust-it-activity-6947879903400706048-Djse?utm_source=linkedin_share&utm_medium=member_desktop_web
 - Moderator Data privacy can improve data intelligence with Protegrity and Ortus Club https://www.linkedin.com/posts/ortus-club_protegrity-data-privacy-activity-6957944629765844992-kW66?utm_source=linkedin_share&utm_medium=member_desktop_web
-- Dallas CIO/CISO Summit "AppSec for Everyone" 9:30AM, August 2022
+- Dallas CIO/CISO Summit "AppSec for Everyone" 9:30AM, August 2022 https://events.cdmmedia.com/event/ba6ed60a-ecb1-4d31-9783-d05b6e97dc81/summary?RefId=org-cdmwebsite
 ### Up and Coming Talks
 - First Watch Podcast Sept 2022  
 - FinTech Magazine (Cyber Security Edition, time pending)
