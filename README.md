@@ -39,7 +39,7 @@
 - NCS Madison CIO/CISO Strategy Meeting Facilitator for "Demonstrate the Business Value of Data" Oct 4 https://ncsmadison.com/cio-ciso-dallas/
 - Housecon "Decentralized Blockchains and Dapps = Cyber Security Worst Practices" Oct 21-22, 2022 https://web.cvent.com/event/0ac8a54d-fbe9-4a16-8510-49dcf538389f/summary
 - DevSecCon 2022 7 December 2022 "AppSec for Everyone" https://m.youtube.com/watch?v=OtRkVjpDlS0
-- ISC2 Connetcut Chapter Insider Threat Talk 23 February 2023 
+- ISC2 Connecticut Chapter Insider Threat Talk 23 February 2023 
                
 ### Up and Coming Talks
 - FinTech Magazine (Cyber Security Edition, time pending)
