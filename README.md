@@ -34,10 +34,14 @@
 - Moderator for Zero Trust Round Table by Cloudflare and Ortus Club https://www.linkedin.com/posts/ortus-club_cloudflare-zerotrust-it-activity-6947879903400706048-Djse?utm_source=linkedin_share&utm_medium=member_desktop_web
 - Moderator Data privacy can improve data intelligence with Protegrity and Ortus Club https://www.linkedin.com/posts/ortus-club_protegrity-data-privacy-activity-6957944629765844992-kW66?utm_source=linkedin_share&utm_medium=member_desktop_web
 - Dallas CIO/CISO Summit "AppSec for Everyone" 9:30AM, August 2022 https://events.cdmmedia.com/event/ba6ed60a-ecb1-4d31-9783-d05b6e97dc81/summary?RefId=org-cdmwebsite
-### Up and Coming Talks
-- First Watch Podcast Sept 2022  
-- FinTech Magazine (Cyber Security Edition, time pending)
-- Boss Magazine (No current date set)
+- First Watch Podcast 17 Oct 2022 https://podcasts.apple.com/us/podcast/chris-russell-on-practitioners-perspectives-in-cyber/id1449062371?i=1000582870774
 - Texas Cyber Summit "Target Acquired V2" 22-24 September 2022 https://texascyber.com/
 - NCS Madison CIO/CISO Strategy Meeting Facilitator for "Demonstrate the Business Value of Data" Oct 4 https://ncsmadison.com/cio-ciso-dallas/
-- Housecon "Decentralized Blockchains and Dapps = Cyber Security Worst Practices" Oct 21-22, 2022 https://web.cvent.com/event/0ac8a54d-fbe9-4a16-8510-49dcf538389f/summary             
+- Housecon "Decentralized Blockchains and Dapps = Cyber Security Worst Practices" Oct 21-22, 2022 https://web.cvent.com/event/0ac8a54d-fbe9-4a16-8510-49dcf538389f/summary
+- DevSecCon 2022 7 December 2022 "AppSec for Everyone" https://m.youtube.com/watch?v=OtRkVjpDlS0
+- ISC2 Connetcut Chapter Insider Threat Talk 23 February 2023 
+               
+### Up and Coming Talks
+- FinTech Magazine (Cyber Security Edition, time pending)
+- Boss Magazine (No current date set)
+             
